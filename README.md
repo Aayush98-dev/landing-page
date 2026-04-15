@@ -23,15 +23,15 @@ AyushFitness/
 ## ⚙️ How to Run the Project
 Download or clone the repository
 Open index.html in your browser
-git clone https://github.com/your-username/ayushfitness.git
+git clone [https://github.com/your-username/ayushfitness.git](https://github.com/Aayush98-dev/landing-page.git)
 cd ayushfitness
 Double-click index.html or open with Live Server
 
-📄 License
+## 📄 License
 
 This project is open-source and free to use.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Ayush Singh
 B.Tech Student | Full Stack Developer
